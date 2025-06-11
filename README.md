@@ -25,7 +25,7 @@
 **기술 스택**
 | 구분 | 기술 스택 |
 |------|-----------|
-| Backend | Java (ver. 22.0.2), Spring Framework, Spring JDBC / MyBatis, JSP, JSTL,  Maven |
+| Backend | Java 8, Spring Framework, Spring JDBC / MyBatis, JSP, JSTL,  Maven |
 | Frontend | HTML, CSS, JavaScript |
 | Database | Oracle 11g |
 | 개발 환경 | Spring Tool Suite (STS), Apache Tomcat v9.0 |
@@ -68,7 +68,7 @@
 **기술 스택**
 | 구분 | 기술 스택 |
 |------|-----------|
-| Backend |  Java (Servlet) |
+| Backend |  Java 8 |
 | Frontend | JSP, HTML/CSS, JavaScript |
 | Database | Oracle 11g |
 | 개발 도구 | Eclipse IDE, Apache Tomcat v9.0 |
