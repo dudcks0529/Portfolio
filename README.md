@@ -15,8 +15,8 @@
 > **Spring Framework 기반 숙박 예약 시스템**  
 > 사용자와 관리자가 각각 예약/등록/조회 기능을 수행할 수 있는 웹 플랫폼
 
-- 🖥️ [실행 사이트 바로가기](http://stayeasy.kro.kr)  
-- 💡 [프로젝트 상세 설명](https://github.com/dudcks0529/StayEasy/README.md)  
+- 🖥️ [실행 사이트 바로가기](http://stayeasy.kro.kr)
+- 💡 [프로젝트 상세 설명](https://github.com/dudcks0529/StayEasy)  
 - 📄 [최종 발표 자료 (PDF)](https://github.com/dudcks0529/StayEasy/screentshots/StayEasy.pdf)
 
 **기술 스택**: Java, Spring, JSP, MyBatis, Oracle 11g, AWS EC2  
