@@ -17,7 +17,7 @@
 
 - 🖥️ [실행 사이트 바로가기](http://stayeasy.kro.kr)
 - 💡 [프로젝트 상세 설명](https://github.com/dudcks0529/StayEasy)  
-- 📄 [최종 발표 자료 (PDF)](https://github.com/dudcks0529/StayEasy/screenshots/StayEasy.pdf)
+- 📄 [최종 발표 자료 (PDF)](https://github.com/dudcks0529/StayEasy/blob/main/screenshots/StayEasy.pdf)
 
 **기술 스택**: Java, Spring, JSP, MyBatis, Oracle 11g, AWS EC2  
 **주요 기능**: 회원가입/예약/숙소 검색/관리자 승인/리뷰/문의 등
